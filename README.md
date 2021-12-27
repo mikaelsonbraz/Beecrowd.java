@@ -3,13 +3,16 @@
 ________________________________
 <h2> IMPORTANTE!</h2>
 <h4> Renomeie as classes</h4>
-<h5> Exemplo: 
-  '''bash
+<h5> Exemplo: </h5>
+'''bash
   >> public class beginner1002 {...
-  
+'''
+
   deve ser escrito como 
+'''bash
   >> public class Main {...
-'''</h5>
+'''
+
 
 ________________________________
 <h3>Repositório criado para armazenar os códigos dos desafios resolvidos 
