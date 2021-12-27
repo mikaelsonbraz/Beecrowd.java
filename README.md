@@ -2,9 +2,8 @@
 
 ________________________________
 <h2> IMPORTANTE!</h2>
-<h4> Renomeie as classes</h4>
+<h4> Renomeie as classes trocando o nome da classe por Main</h4>
 <h5> Exemplo: </h5>
-
 
   > public class beginner1002 {...
 
