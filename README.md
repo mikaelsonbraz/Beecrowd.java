@@ -2,7 +2,8 @@
 
 ________________________________
 <h2> IMPORTANTE!</h2>
-<h4> Renomeie as classes trocando o nome da classe por Main</h4>
+<h3>1. Apague o package Beginner; presente na primeira linha.</h3>
+<h3>2. Renomeie o nome da classe para Main.</h3>
 <h5> Exemplo: </h5>
 
   > public class beginner1002 {...
