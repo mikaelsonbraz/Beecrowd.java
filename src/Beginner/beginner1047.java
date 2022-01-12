@@ -1,4 +1,4 @@
-// https://www.beecrowd.com.br/judge/pt/problems/view/1046
+// https://www.beecrowd.com.br/judge/pt/problems/view/1047
 package Beginner;
 import java.util.Scanner;
 
