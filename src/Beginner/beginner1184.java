@@ -23,10 +23,7 @@ public class beginner1184 {
             }
         }
 
-        if (operacao.equals("S")){
-            System.out.printf("%.1f%n", soma);
-        } else {
-            System.out.printf("%.1f%n", (soma / 66));
-        }
+        if (operacao.equals("M")) soma /= 66;
+        System.out.printf("%.1f%n", (soma));
     }
 }
